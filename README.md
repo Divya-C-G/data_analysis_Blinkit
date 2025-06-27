@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard that provides a detailed analysis 
 -  Interactive filters (slicers) for flexible data exploration
 -  Professionally designed dashboard layout
 
-## 🛠 Built With
+##  Built With
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
